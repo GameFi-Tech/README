@@ -12,23 +12,17 @@ Wiki: https://wiki.gamefi.tech
 
 Brandbook: https://gamefi.tech/brandbook
 
-BEP20 token: 0x073b55EdB4C75727a1fd9C45C603A1688800478E
-
-Blockchain: Binance Smart Chain
-
-DexTools https://www.dextools.io/app/en/bnb/pair-explorer/0x4e4042d022658d178d4d05d15f9a54cc5fae6889
-
-Swap: https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x073b55EdB4C75727a1fd9C45C603A1688800478E
+**Token:**
+- BEP20 token: 0x073b55EdB4C75727a1fd9C45C603A1688800478E
+- Blockchain: Binance Smart Chain
+- DexTools https://www.dextools.io/app/en/bnb/pair-explorer/0x4e4042d022658d178d4d05d15f9a54cc5fae6889
+- Swap: https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x073b55EdB4C75727a1fd9C45C603A1688800478E
 
 **Community:**
-
-  Support: https://t.me/gamefi_tech_support_bot
-  
-  Team: https://gamefi.tech/team
-  
-  Ambassador: https://gamefi.tech/ambassadors
-  
-  Adviseres: https://gamefi.tech/advisers
+- Support: https://t.me/gamefi_tech_support_bot
+- Team: https://gamefi.tech/team
+- Ambassador: https://gamefi.tech/ambassadors
+- Adviseres: https://gamefi.tech/advisers
 
 **Social:**
   - Twitter https://twitter.com/gamefi_tech
