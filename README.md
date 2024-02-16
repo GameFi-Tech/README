@@ -35,18 +35,17 @@ Brandbook: https://gamefi.tech/brandbook
     - CIS community channel https://t.me/gamefi_tech
     - CIS community chat https://t.me/gamefi_chat_ru
 
-**Crypto Processing:** https://processing.gfi.tools
-
-**Web3 Games Aggregator:** https://solido.games/
-
-**Ecosystem Games:**
+**Products:**
+- **Crypto Processing:** https://processing.gfi.tools
+- **Web3 Games Aggregator:** https://solido.games
+- **Ecosystem Games:**
 
   World Of Warcraft
   - https://wow.game
   - https://t.me/wow_gamefi
   - https://vk.com/wow_gamefi
   - https://discord.gg/sby5PQh6FY
-  - https://www.youtube.com/
+  - https://www.youtube.com/@wow_gamefi
 
   Counter-Strike 2
   - https://cs2.game
