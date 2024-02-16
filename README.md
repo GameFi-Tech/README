@@ -21,9 +21,13 @@ DexTools https://www.dextools.io/app/en/bnb/pair-explorer/0x4e4042d022658d178d4d
 Swap: https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x073b55EdB4C75727a1fd9C45C603A1688800478E
 
 **Community:**
+
   Support: https://t.me/gamefi_tech_support_bot
+  
   Team: https://gamefi.tech/team
+  
   Ambassador: https://gamefi.tech/ambassadors
+  
   Adviseres: https://gamefi.tech/advisers
 
 **Social:**
