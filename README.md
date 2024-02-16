@@ -27,13 +27,13 @@ Brandbook: https://gamefi.tech/brandbook
 **Social:**
   - Twitter https://twitter.com/gamefi_tech
   - Discord https://discord.gg/6DDKQrX79x
+  - YouTube https://www.youtube.com/@gamefi_tech
+  - VK https://vk.com/gamefi.tech
   - Telegram:
     - chanel https://t.me/gamefi_tech_en
     - chat https://t.me/gamefi_chat_en
     - CIS community channel https://t.me/gamefi_tech
     - CIS community chat https://t.me/gamefi_chat_ru
-  - YouTube https://www.youtube.com/@gamefi_tech
-  - VK https://vk.com/gamefi.tech
 
 **Crypto Processing:** https://processing.gfi.tools
 
