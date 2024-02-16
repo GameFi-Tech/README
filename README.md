@@ -3,14 +3,21 @@
 **GFi** - a useful token with which the company implements the idea of ​​'play and earn'. The GFi token is primarily a means by which players can make in-game purchases, as well as mine it in games tokenized by GFi.
 
 BEP20 token: 0x073b55EdB4C75727a1fd9C45C603A1688800478E
+
 Blockchain: Binance Smart Chain
+
 DexTools https://www.dextools.io/app/en/bnb/pair-explorer/0x4e4042d022658d178d4d05d15f9a54cc5fae6889
+
 Swap: https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x073b55EdB4C75727a1fd9C45C603A1688800478E
 
 Site: https://gamefi.tech
+
 Whitepaper: https://gamefi.tech/white-paper
+
 Tokenomics: https://drive.google.com/drive/folders/133q0lVYNKv5XJ8yFXz3QFbHqF1U2dCb3
+
 Wiki: https://wiki.gamefi.tech
+
 Brandbook: https://gamefi.tech/brandbook
 
 **Community:**
