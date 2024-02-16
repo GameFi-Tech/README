@@ -40,31 +40,31 @@ Brandbook: https://gamefi.tech/brandbook
 - **Web3 Games Aggregator:** https://solido.games
 - **Ecosystem Games:**
 
-  World Of Warcraft
+  **World Of Warcraft**
   - https://wow.game
   - https://t.me/wow_gamefi
   - https://vk.com/wow_gamefi
   - https://discord.gg/sby5PQh6FY
   - https://www.youtube.com/@wow_gamefi
 
-  Counter-Strike 2
+  **Counter-Strike 2**
   - https://cs2.game
   - https://t.me/cs2game
   - https://vk.com/cs.gamefi
   - https://discord.gg/wyv9wg89EZ
 
-  2048
+  **2048**
   - https://2048.win
   
-  StepoRun
+  **StepoRun**
   - https://stepo.run
   - https://t.me/stepogram_community
 
-  CoinFlip
+  **CoinFlip**
   - https://coinflip.game
 
-  Token Hunter
+  **Token Hunter**
   - https://token-hunter.games
 
-  Fool
+  **Fool**
   - https://fool.game
