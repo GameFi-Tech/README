@@ -1,6 +1,6 @@
-GameFi Tech - An IT company specializing in the tokenization of popular online games by combining Web2 & Web3 technologies.
+**GameFi Tech** - An IT company specializing in the tokenization of popular online games by combining Web2 & Web3 technologies.
 
-GFi - a useful token with which the company implements the idea of ​​'play and earn'. The GFi token is primarily a means by which players can make in-game purchases, as well as mine it in games tokenized by GFi.
+**GFi** - a useful token with which the company implements the idea of ​​'play and earn'. The GFi token is primarily a means by which players can make in-game purchases, as well as mine it in games tokenized by GFi.
 
 BEP20 token: 0x073b55EdB4C75727a1fd9C45C603A1688800478E
 Blockchain: Binance Smart Chain
@@ -13,13 +13,13 @@ Tokenomics: https://drive.google.com/drive/folders/133q0lVYNKv5XJ8yFXz3QFbHqF1U2
 Wiki: https://wiki.gamefi.tech
 Brandbook: https://gamefi.tech/brandbook
 
-Community:
+**Community:**
   Support: https://t.me/gamefi_tech_support_bot
   Team: https://gamefi.tech/team
   Ambassador: https://gamefi.tech/ambassadors
   Adviseres: https://gamefi.tech/advisers
 
-Social:
+**Social:**
   - Twitter https://twitter.com/gamefi_tech
   - Discord https://discord.gg/6DDKQrX79x
   - Telegram:
@@ -30,11 +30,12 @@ Social:
   - YouTube https://www.youtube.com/@gamefi_tech
   - VK https://vk.com/gamefi.tech
 
-Crypto Processing: https://processing.gfi.tools
+**Crypto Processing:** https://processing.gfi.tools
 
-Web3 Games Aggregator: https://solido.games/
+**Web3 Games Aggregator:** https://solido.games/
 
-Ecosystem Games:
+**Ecosystem Games:**
+
   World Of Warcraft
   - https://wow.game
   - https://t.me/wow_gamefi
