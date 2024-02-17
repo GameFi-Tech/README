@@ -1,5 +1,3 @@
-!{GameFi_Tech_Logo.png}
-
 **GameFi Tech** - An IT company specializing in the tokenization of popular online games by combining Web2 & Web3 technologies.
 
 **GFi** - a useful token with which the company implements the idea of ​​'play and earn'. The GFi token is primarily a means by which players can make in-game purchases, as well as mine it in games tokenized by GFi.
