@@ -14,6 +14,8 @@ Wiki: https://wiki.gamefi.tech
 
 Brandbook: https://gamefi.tech/brandbook
 
+![Logo](GameFi-Tech-Token-Logo.png)
+
 **Token:**
 - BEP20 token: 0x073b55EdB4C75727a1fd9C45C603A1688800478E
 - Blockchain: Binance Smart Chain
